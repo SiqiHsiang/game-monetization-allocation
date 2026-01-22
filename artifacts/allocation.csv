@@ -1,0 +1,609 @@
+user_id,monetization_segment,offer_id,offer_name,cost,expected_incremental_revenue,cumulative_cost,ev_rank
+b5c61dc0-138d-4d49-ae4a-c4ca75787cb2,whale,O1,Whale Exclusive Pack,10,982.89,10,1
+9ce85d56-3f8f-431a-b0bf-eec096811b39,whale,O1,Whale Exclusive Pack,10,976.396,20,2
+a8881761-c5ca-4ded-ad96-81e76b2f04e1,whale,O1,Whale Exclusive Pack,10,976.056,30,3
+3adbf004-12bb-4abc-985a-ec2c3e399704,whale,O1,Whale Exclusive Pack,10,968.6320000000001,40,4
+a9f827e9-f212-47ab-8c8a-81e6b6d7145d,whale,O1,Whale Exclusive Pack,10,944.1540000000001,50,5
+69221c7c-c50f-4b3f-a67f-3c1450e4f6d8,whale,O1,Whale Exclusive Pack,10,930.1120000000001,60,6
+af42adc7-ff91-418f-935e-b3b2d0827a45,whale,O1,Whale Exclusive Pack,10,913.896,70,7
+56824487-498c-4c14-a94b-1bf6e680769c,whale,O1,Whale Exclusive Pack,10,885.094,80,8
+cb7c4c69-eda2-4c2a-a4f2-45f16a8bf100,whale,O1,Whale Exclusive Pack,10,884.374,90,9
+5b59b39a-26b8-40b7-941d-c07fb6eac6af,whale,O1,Whale Exclusive Pack,10,881.2600000000001,100,10
+2fb25fed-3e11-4d61-860a-db76c61cb308,whale,O1,Whale Exclusive Pack,10,865.6620000000001,110,11
+c94b25d8-fc61-4add-9c9c-6b2e57369585,whale,O1,Whale Exclusive Pack,10,863.4680000000001,120,12
+d17030c2-e861-4028-aa03-23b18d239a40,whale,O1,Whale Exclusive Pack,10,850.5219999999999,130,13
+09289de9-d7e8-4480-b80e-1057bc1fbb65,whale,O1,Whale Exclusive Pack,10,849.496,140,14
+7a963764-7270-4233-8fdf-aae1861821f8,whale,O1,Whale Exclusive Pack,10,810.524,150,15
+edb1a529-870d-46a8-bc7a-824491cb496d,whale,O1,Whale Exclusive Pack,10,773.9000000000001,160,16
+bc6add4f-aaa3-452e-9c48-3aebc8371093,whale,O1,Whale Exclusive Pack,10,738.47,170,17
+996e52dd-4e63-43a7-b862-02f0b6fb5225,whale,O1,Whale Exclusive Pack,10,715.924,180,18
+7af7e639-8d79-4928-860e-8a06402775e7,whale,O1,Whale Exclusive Pack,10,694.3000000000001,190,19
+436b6b98-f0d7-42ee-a286-b2d7a1806f27,whale,O1,Whale Exclusive Pack,10,689.47,200,20
+784fa153-301d-4286-adf5-3459e04e8a97,whale,O1,Whale Exclusive Pack,10,680.902,210,21
+927870f8-f97a-4e86-872d-4dfa3d0eaaf7,whale,O1,Whale Exclusive Pack,10,666.446,220,22
+41f85b04-01ad-4afb-90de-891c2b6733e3,whale,O1,Whale Exclusive Pack,10,655.4200000000001,230,23
+fd64ce27-5850-4595-9aa4-26cb16ae5c39,whale,O1,Whale Exclusive Pack,10,649.49,240,24
+e9eadb83-df6f-4f35-a218-b11768a69681,whale,O1,Whale Exclusive Pack,10,641.346,250,25
+269718b5-25d9-4c4b-b47d-56c2a8e01898,whale,O1,Whale Exclusive Pack,10,612.2420000000001,260,26
+24ef9d44-0c43-4f19-9e3a-8a87b9fd3fb3,whale,O1,Whale Exclusive Pack,10,602.974,270,27
+29c5e352-0798-466e-83d9-48f2a44cf637,whale,O1,Whale Exclusive Pack,10,583.4,280,28
+de5552d6-cee6-4627-b80c-f09cb51f0608,whale,O1,Whale Exclusive Pack,10,582.5600000000001,290,29
+f568008e-ed26-4bcd-b262-344a4c853cba,whale,O1,Whale Exclusive Pack,10,562.744,300,30
+31c7dd40-778b-45e0-bce4-d349ef2b21fb,whale,O1,Whale Exclusive Pack,10,552.874,310,31
+cdb17fe8-ae82-44de-b023-aadc36b4a7b8,whale,O1,Whale Exclusive Pack,10,514.168,320,32
+e6548990-c44c-4081-8363-eed80bcfd035,whale,O1,Whale Exclusive Pack,10,512.178,330,33
+dfb49887-d008-4b9c-b407-05eac20eaaf2,whale,O1,Whale Exclusive Pack,10,495.824,340,34
+2be83d47-bdf8-455c-b3d0-85dffd931046,whale,O1,Whale Exclusive Pack,10,489.80400000000003,350,35
+94a7eef9-6c18-497a-b734-561509824780,whale,O1,Whale Exclusive Pack,10,463.3520000000001,360,36
+924258c4-95fd-4f2d-81df-d48c8cd06041,whale,O1,Whale Exclusive Pack,10,462.73400000000004,370,37
+1a64c03b-bb07-4216-aedf-cf7e401618df,whale,O1,Whale Exclusive Pack,10,447.986,380,38
+d65ff56b-3186-484d-8435-40bc52a28584,whale,O1,Whale Exclusive Pack,10,421.686,390,39
+211775ae-d907-44ba-a256-60e56879dcb0,whale,O1,Whale Exclusive Pack,10,418.11800000000005,400,40
+2f521883-7791-4f7c-8640-cb832adf21e0,whale,O1,Whale Exclusive Pack,10,415.826,410,41
+6c2a5488-7147-4d3b-b05d-73991b8c8730,whale,O1,Whale Exclusive Pack,10,413.16800000000006,420,42
+d0c32698-68e7-444e-adca-d09f092a85e3,whale,O1,Whale Exclusive Pack,10,390.8,430,43
+9b7c844f-1891-49da-a71d-b0b2719deda5,whale,O1,Whale Exclusive Pack,10,379.172,440,44
+450eeeed-0f48-4b89-884f-9357d389ca26,whale,O1,Whale Exclusive Pack,10,376.78200000000004,450,45
+20334f1e-27b0-4a48-b761-03ef232f79a2,whale,O1,Whale Exclusive Pack,10,366.07800000000003,460,46
+b3788fbb-9101-41a9-95f3-6a203cb42f26,whale,O1,Whale Exclusive Pack,10,363.82,470,47
+bebf3cd2-c4df-4464-968a-2bf2255329af,whale,O1,Whale Exclusive Pack,10,360.49600000000004,480,48
+5142c647-bb21-47cd-9097-5fa0083b6ed1,whale,O1,Whale Exclusive Pack,10,326.36,490,49
+fae21588-40de-4c19-b0f6-a2e52d6017f7,whale,O1,Whale Exclusive Pack,10,324.14000000000004,500,50
+a6494ce5-8810-4f7e-b5c9-66e917923618,whale,O1,Whale Exclusive Pack,10,322.74600000000004,510,51
+5146baf5-880d-4493-b184-ef8753b650d9,whale,O1,Whale Exclusive Pack,10,290.42199999999997,520,52
+ae3ebcfe-36fa-49ad-a232-d623ad1cb164,whale,O1,Whale Exclusive Pack,10,243.85000000000002,530,53
+7604e549-e739-47c9-b91d-6e2e1cf53077,whale,O1,Whale Exclusive Pack,10,215.17600000000004,540,54
+472e2de1-9f9a-4bef-b364-33f90e1f1ce9,whale,O1,Whale Exclusive Pack,10,210.708,550,55
+b590a21f-9a70-4001-b164-8efae4764fa6,whale,O1,Whale Exclusive Pack,10,196.564,560,56
+4659ffe9-deb1-4cb3-90c8-3959e474b8b9,whale,O1,Whale Exclusive Pack,10,191.136,570,57
+87291909-41d2-45af-bf0d-b00de5a39dd6,whale,O1,Whale Exclusive Pack,10,186.406,580,58
+28722113-e51e-4ab2-ad60-74e280edd7ad,whale,O1,Whale Exclusive Pack,10,176.50400000000002,590,59
+e55c2519-f93d-40c2-bac8-8a4930cd8a1c,whale,O1,Whale Exclusive Pack,10,164.982,600,60
+c7aacb9b-7b33-479c-aae9-ecd0aaddd50b,whale,O1,Whale Exclusive Pack,10,135.24800000000002,610,61
+802ceaa1-5cbe-4b14-9b79-095bba7fd1f8,whale,O1,Whale Exclusive Pack,10,113.754,620,62
+702bafd0-9a08-4269-801e-faf32f9f3ca5,whale,O1,Whale Exclusive Pack,10,111.64200000000001,630,63
+bcdbdb49-29a2-412f-a478-95990225273d,dolphin,O3,Dolphin Limited Offer,5,69.6865,635,64
+6b1958ef-93cf-404f-9c31-183bea669aa9,dolphin,O3,Dolphin Limited Offer,5,69.4465,640,65
+4c22c409-bc84-470b-b9bd-d929acaf636c,dolphin,O3,Dolphin Limited Offer,5,69.0835,645,66
+1d596cde-15d5-4786-aa72-98272965ed29,dolphin,O3,Dolphin Limited Offer,5,68.836,650,67
+32e71dbe-a21b-4db4-be44-1e2048e36a64,dolphin,O3,Dolphin Limited Offer,5,68.64399999999999,655,68
+e953bfe5-8b5f-407b-bb41-26b45ac4e752,dolphin,O3,Dolphin Limited Offer,5,68.62,660,69
+d67aa0c4-9610-405d-bc95-e392afa36465,dolphin,O3,Dolphin Limited Offer,5,68.5945,665,70
+a2be69c2-7281-4a1e-b6c0-dea05b1ee80d,dolphin,O3,Dolphin Limited Offer,5,68.539,670,71
+827657d9-7c6c-44d5-98c1-6c990236e0a9,dolphin,O3,Dolphin Limited Offer,5,68.49849999999999,675,72
+b07bcc3d-196f-4531-819d-e8df07305b7e,dolphin,O3,Dolphin Limited Offer,5,68.461,680,73
+7f80a0ac-c55e-44f7-b145-4ccca572efc6,dolphin,O3,Dolphin Limited Offer,5,68.254,685,74
+6f16f229-3ecf-4618-b571-c1e902734af3,dolphin,O3,Dolphin Limited Offer,5,68.19399999999999,690,75
+d5f27192-ebdb-4220-90c8-626c3a08f97c,dolphin,O3,Dolphin Limited Offer,5,68.08749999999999,695,76
+98e95b5c-06a6-45c0-8b4b-5c20df6b02cf,dolphin,O3,Dolphin Limited Offer,5,67.78,700,77
+ac81b7db-ae51-4eaa-8f92-a86081a63f0d,dolphin,O3,Dolphin Limited Offer,5,67.5775,705,78
+f049b749-39a5-401a-99d4-0301b8dd9f13,dolphin,O3,Dolphin Limited Offer,5,67.4785,710,79
+62d3b209-93d4-4ed7-949e-706055b8e452,dolphin,O3,Dolphin Limited Offer,5,67.339,715,80
+a786d00c-1f82-4df1-ab72-540d197fa51d,dolphin,O3,Dolphin Limited Offer,5,67.282,720,81
+bdac696e-6890-437b-97cc-6979587048bd,dolphin,O3,Dolphin Limited Offer,5,66.9415,725,82
+3b3cd1ba-5b63-4914-920c-3448046d34e6,dolphin,O3,Dolphin Limited Offer,5,66.73899999999999,730,83
+2afe4941-c293-4068-83dd-2bc72b1b7123,dolphin,O3,Dolphin Limited Offer,5,66.21249999999999,735,84
+1ce5c536-f8f6-466c-a1cd-2b74e02b4635,dolphin,O3,Dolphin Limited Offer,5,65.92,740,85
+9b288e8e-6a0e-4cc2-9ba3-0afb1e26f029,dolphin,O3,Dolphin Limited Offer,5,65.767,745,86
+62fbd65d-1484-4110-85dd-743cd0d6fedf,dolphin,O3,Dolphin Limited Offer,5,65.44749999999999,750,87
+7ddde45b-22a7-431a-bd45-14c104b99515,dolphin,O3,Dolphin Limited Offer,5,65.2075,755,88
+2a02c065-8b0f-4bb0-989a-d78036f89b8e,dolphin,O3,Dolphin Limited Offer,5,64.972,760,89
+70bbc451-5160-43c5-afaf-1b8175fcdc62,dolphin,O3,Dolphin Limited Offer,5,64.9165,765,90
+e29be941-e00b-4597-98cb-82d4c51ea2cc,dolphin,O3,Dolphin Limited Offer,5,64.24,770,91
+c35c0bcd-5c53-4941-81a5-c26554ee8b11,dolphin,O3,Dolphin Limited Offer,5,63.99249999999999,775,92
+21b42399-9f7a-48d8-bec8-837142ea1c5b,dolphin,O3,Dolphin Limited Offer,5,63.988,780,93
+ecffadb4-9dd9-4ab1-a61e-0d815b1ec381,dolphin,O3,Dolphin Limited Offer,5,63.985,785,94
+26ea2470-3884-4675-b4d4-5303a06b62a6,dolphin,O3,Dolphin Limited Offer,5,63.595,790,95
+5acb1be9-ac62-4ff3-ab06-87b223c2b300,dolphin,O3,Dolphin Limited Offer,5,63.308499999999995,795,96
+a455148d-bf30-47b8-aae1-fd081336cd6a,dolphin,O3,Dolphin Limited Offer,5,63.304,800,97
+b2069394-294b-4fe1-977b-dbb2ebf79ae5,dolphin,O3,Dolphin Limited Offer,5,63.15849999999999,805,98
+1d63feb5-ea0a-4d63-b53d-6e6f3669df69,dolphin,O3,Dolphin Limited Offer,5,62.7445,810,99
+f124214b-a7a3-48be-982b-c7417744be82,dolphin,O3,Dolphin Limited Offer,5,62.057500000000005,815,100
+d57f6e40-8e11-4bb4-9e5d-83ad30643262,dolphin,O3,Dolphin Limited Offer,5,61.8445,820,101
+7ae11556-b94d-4bf0-aa7c-03afa67b2ea4,dolphin,O3,Dolphin Limited Offer,5,61.775499999999994,825,102
+e5135044-8a84-4acc-9a32-ec31225ce96c,dolphin,O3,Dolphin Limited Offer,5,61.67649999999999,830,103
+836d7b01-1b32-438a-9e56-514a6494d848,dolphin,O3,Dolphin Limited Offer,5,61.62249999999999,835,104
+9affb89a-8df9-4d17-8fff-a21b81a949ca,dolphin,O3,Dolphin Limited Offer,5,61.072,840,105
+c84223d6-49bc-4e20-9cee-eef1577332c3,dolphin,O3,Dolphin Limited Offer,5,60.934,845,106
+e7273d46-5940-42c5-9223-a065a5d56f0d,dolphin,O3,Dolphin Limited Offer,5,60.8395,850,107
+affffb44-d0b1-47b2-b1f1-bcd41112f8cb,dolphin,O3,Dolphin Limited Offer,5,60.519999999999996,855,108
+07d50181-058b-456d-ae44-18c0b80ca846,dolphin,O3,Dolphin Limited Offer,5,60.3595,860,109
+79df2bb9-980b-4dd6-b527-514dc36d7aa9,dolphin,O3,Dolphin Limited Offer,5,60.253,865,110
+149a072e-ff0a-4930-b3dd-89417151665d,dolphin,O3,Dolphin Limited Offer,5,60.25149999999999,870,111
+49656b72-f958-4dca-84db-ce772059a6f1,dolphin,O3,Dolphin Limited Offer,5,59.455,875,112
+831776e9-a34f-4ea7-a68c-d453907cc5f2,dolphin,O3,Dolphin Limited Offer,5,59.3935,880,113
+44442e78-e6cf-4c6e-8aa3-a203921c14f5,dolphin,O3,Dolphin Limited Offer,5,59.376999999999995,885,114
+8a20f618-4988-4df5-a1f4-907c050850c1,dolphin,O3,Dolphin Limited Offer,5,59.022999999999996,890,115
+1d6be853-026a-47b6-a4e4-4e4d7caae58a,dolphin,O3,Dolphin Limited Offer,5,58.783,895,116
+f13a3307-7fd7-41d9-b0ae-18b9ab80ecad,dolphin,O3,Dolphin Limited Offer,5,58.741,900,117
+79a16685-0b0e-4e70-a8a6-8c2af0fd30fd,dolphin,O3,Dolphin Limited Offer,5,58.260999999999996,905,118
+52dd0a1e-5c1e-4afd-b1f3-4def206c9a7e,dolphin,O3,Dolphin Limited Offer,5,58.195,910,119
+f8a983e2-c023-438e-8f74-6cf097fa87e8,dolphin,O3,Dolphin Limited Offer,5,58.047999999999995,915,120
+6d9d90e8-bf22-4737-af77-504f76a421cc,dolphin,O3,Dolphin Limited Offer,5,58.0165,920,121
+d9e393fa-0d74-4458-b322-97522a178790,dolphin,O3,Dolphin Limited Offer,5,57.521499999999996,925,122
+6feb5bd0-5f39-4e59-b6e2-b6674d2f9a8a,dolphin,O3,Dolphin Limited Offer,5,57.24249999999999,930,123
+dd9695fc-f3ec-47d8-830c-1b64de8ef53a,dolphin,O3,Dolphin Limited Offer,5,56.974000000000004,935,124
+a0cbb93a-ba16-4239-9ab0-255b7e852a19,dolphin,O3,Dolphin Limited Offer,5,55.9825,940,125
+ccc32cb4-ed19-46e9-901f-ad8adcac7efe,dolphin,O3,Dolphin Limited Offer,5,55.772499999999994,945,126
+8adec985-5d2c-4948-89cf-545712821803,dolphin,O3,Dolphin Limited Offer,5,54.6415,950,127
+b81d7699-3b72-4108-9992-c6674725f038,dolphin,O3,Dolphin Limited Offer,5,54.56349999999999,955,128
+f1ac4e36-cb0c-4e30-893f-f1a4a2943290,dolphin,O3,Dolphin Limited Offer,5,54.545500000000004,960,129
+9dcf266f-8a66-47d2-b791-5e4dedc990c2,dolphin,O3,Dolphin Limited Offer,5,54.463,965,130
+c0edefdb-399c-47ea-ace1-7ea34f11479d,dolphin,O3,Dolphin Limited Offer,5,54.39399999999999,970,131
+32d91c1b-7b02-412d-b3bd-7ba48f01e8ea,dolphin,O3,Dolphin Limited Offer,5,54.3925,975,132
+902744c6-0620-47d6-92aa-b1d719b1d50f,dolphin,O3,Dolphin Limited Offer,5,54.043,980,133
+09cfa2a7-348e-4dd3-bb54-a748849a2ffa,dolphin,O3,Dolphin Limited Offer,5,53.65,985,134
+f32a2337-3b62-4ce4-9cff-20cab4008557,dolphin,O3,Dolphin Limited Offer,5,53.358999999999995,990,135
+add8c379-34c9-4b45-b152-14c7ae40d099,dolphin,O3,Dolphin Limited Offer,5,53.24199999999999,995,136
+7a8c0e78-c8c3-4f96-a1f6-c2c8644bc63b,dolphin,O3,Dolphin Limited Offer,5,53.032,1000,137
+a765cb4c-9957-4fe3-bba9-66fb1eab1fd7,dolphin,O3,Dolphin Limited Offer,5,52.89399999999999,1005,138
+476dbcfa-1390-4faf-bc7b-c93d52ddcabf,dolphin,O3,Dolphin Limited Offer,5,52.2685,1010,139
+1016b9f2-c840-4429-9348-d5227551e593,dolphin,O3,Dolphin Limited Offer,5,51.834999999999994,1015,140
+f281e7fd-5033-415a-b07f-450273a42f73,dolphin,O3,Dolphin Limited Offer,5,51.7075,1020,141
+23c535fa-a762-4803-8dd5-950b3966791f,dolphin,O3,Dolphin Limited Offer,5,51.645999999999994,1025,142
+16933d5e-bc1b-4962-85e9-716fb955a44a,dolphin,O3,Dolphin Limited Offer,5,51.6145,1030,143
+9a344daf-ee80-4ff3-9d60-4a34edc8c65f,dolphin,O3,Dolphin Limited Offer,5,51.4615,1035,144
+058d5e84-ac86-44b4-8664-ef142cbb30bb,dolphin,O3,Dolphin Limited Offer,5,51.34,1040,145
+a5065c1f-6cb2-4550-b856-671ebf4177d2,dolphin,O3,Dolphin Limited Offer,5,51.0895,1045,146
+0d7738a9-ea6b-4405-9eca-2707cd020942,dolphin,O3,Dolphin Limited Offer,5,50.9455,1050,147
+c2dd739e-50df-4ff5-a076-40d9ab669ae2,dolphin,O3,Dolphin Limited Offer,5,50.6245,1055,148
+d3d71ba1-6331-482b-ab2f-0f0810e3e310,dolphin,O3,Dolphin Limited Offer,5,50.596,1060,149
+8d1df810-fdd0-4167-8788-9465b2f22d1c,dolphin,O3,Dolphin Limited Offer,5,50.452,1065,150
+f0e772e4-1df6-433c-b0e3-3527076291fe,dolphin,O3,Dolphin Limited Offer,5,50.261500000000005,1070,151
+373d406e-091c-4ea7-ac1c-cd23c4c47139,dolphin,O3,Dolphin Limited Offer,5,50.02,1075,152
+54f62d62-4f5b-4429-9050-c79a338529b9,dolphin,O3,Dolphin Limited Offer,5,49.6525,1080,153
+64f207cc-5f00-4fd7-8e71-1d46db42c1b8,dolphin,O3,Dolphin Limited Offer,5,48.841,1085,154
+04c0df0a-05ed-494a-803d-d7001d43f12e,dolphin,O3,Dolphin Limited Offer,5,48.748,1090,155
+2f469427-3ad5-4c3f-b6b6-2ae322c71fe4,dolphin,O3,Dolphin Limited Offer,5,48.742,1095,156
+0d2a0cf8-dd6c-4db7-ab9a-710abe362ca5,dolphin,O3,Dolphin Limited Offer,5,48.733000000000004,1100,157
+9833eb00-f7c0-47df-9643-9e5d145a6851,dolphin,O3,Dolphin Limited Offer,5,48.5935,1105,158
+7bdcb3bd-8736-4621-aa6e-5bab9ac12e44,dolphin,O3,Dolphin Limited Offer,5,48.559,1110,159
+03e7dc1d-dfe5-4677-aff4-239b6a60ad7c,dolphin,O3,Dolphin Limited Offer,5,48.547000000000004,1115,160
+46ede412-07b3-4425-9976-22ac101b8d11,dolphin,O3,Dolphin Limited Offer,5,48.359500000000004,1120,161
+9dfcb367-123f-4eb5-9129-af0507fcc94c,dolphin,O3,Dolphin Limited Offer,5,47.8645,1125,162
+9a53ec67-83cf-4564-83e0-90ee7a75c61e,dolphin,O3,Dolphin Limited Offer,5,47.758,1130,163
+221b39c4-0196-43c9-ba0b-cece9db0ab14,dolphin,O3,Dolphin Limited Offer,5,47.6755,1135,164
+a61ec3b3-9495-4e5a-adf5-23caa2d27c0c,dolphin,O3,Dolphin Limited Offer,5,47.5615,1140,165
+9c43a1ab-747e-45f8-a9c1-850411224cb7,dolphin,O3,Dolphin Limited Offer,5,47.51199999999999,1145,166
+5b49451a-0ed2-42c0-89f1-e5dbd4ee61da,dolphin,O3,Dolphin Limited Offer,5,47.4535,1150,167
+1b8c9c90-4f42-45a5-abea-385f16d2b22e,dolphin,O3,Dolphin Limited Offer,5,47.342499999999994,1155,168
+bc894892-44ab-430c-b3a6-14932e2d1a53,dolphin,O3,Dolphin Limited Offer,5,46.9285,1160,169
+868ab631-3057-4979-b233-5b307d20e475,dolphin,O3,Dolphin Limited Offer,5,46.8235,1165,170
+a840b24b-8ed9-4dfd-8765-37ffff204b17,dolphin,O3,Dolphin Limited Offer,5,46.631499999999996,1170,171
+f8aa197e-825d-436e-8d5e-c28d260657d9,dolphin,O3,Dolphin Limited Offer,5,45.869499999999995,1175,172
+37362cbf-d5c3-4f32-af79-5dd1c4fedb0b,dolphin,O3,Dolphin Limited Offer,5,45.834999999999994,1180,173
+65628a22-89b0-4afc-b71d-5f58cb4551e5,dolphin,O3,Dolphin Limited Offer,5,45.7735,1185,174
+d90af4c3-9f4a-4120-860a-eb41f0920947,dolphin,O3,Dolphin Limited Offer,5,45.708999999999996,1190,175
+5e12bef2-00c7-4634-b3b2-b0926e9cb9fc,dolphin,O3,Dolphin Limited Offer,5,45.595,1195,176
+a0c30750-c0a5-4fd7-9ed1-ff3acf4ffc1d,dolphin,O3,Dolphin Limited Offer,5,45.5005,1200,177
+7f348e33-22bb-4bab-a8b9-40a4853c88ac,dolphin,O3,Dolphin Limited Offer,5,45.083499999999994,1205,178
+1d68ca41-4d8e-4543-8824-9413fe4588b4,dolphin,O3,Dolphin Limited Offer,5,44.044,1210,179
+cdf808bc-ad45-4605-af2d-78be855003ab,dolphin,O3,Dolphin Limited Offer,5,44.038000000000004,1215,180
+c05bd42f-d7ba-42e6-9f65-e0e6a61982a5,dolphin,O3,Dolphin Limited Offer,5,43.8415,1220,181
+1fe1d609-9406-4d0a-8626-5737fe78bd40,dolphin,O3,Dolphin Limited Offer,5,43.55649999999999,1225,182
+7e4994aa-2310-4368-a28b-b3308695ddee,dolphin,O3,Dolphin Limited Offer,5,43.5505,1230,183
+d99c0d4b-ba6c-4a2b-bf42-d4d6eac75b8b,dolphin,O3,Dolphin Limited Offer,5,43.5055,1235,184
+87786be2-7f38-43ee-b5ce-01feb2473834,dolphin,O3,Dolphin Limited Offer,5,43.431999999999995,1240,185
+3efd3585-d549-453a-a4a3-68aae35828d8,dolphin,O3,Dolphin Limited Offer,5,43.291,1245,186
+5f20a679-6f98-4bbd-b463-819edc54b2b9,dolphin,O3,Dolphin Limited Offer,5,43.2895,1250,187
+ea9e57bf-8ffb-4f98-85a7-6f41bd04952c,dolphin,O3,Dolphin Limited Offer,5,43.222,1255,188
+b34c6df4-6935-46a6-a96e-ea8d4ec6c1be,dolphin,O3,Dolphin Limited Offer,5,42.81549999999999,1260,189
+156b1b5e-b149-469d-a8cc-318369033b2f,dolphin,O3,Dolphin Limited Offer,5,42.8095,1265,190
+ff279659-4064-4a33-aed0-6a6ddcc9507e,dolphin,O3,Dolphin Limited Offer,5,42.4075,1270,191
+85cddb7c-2e5e-44f9-bbdf-c698c3c598f2,dolphin,O3,Dolphin Limited Offer,5,42.055,1275,192
+765f67bd-0006-4e9a-b3b1-d017e9e42fa3,dolphin,O3,Dolphin Limited Offer,5,41.906499999999994,1280,193
+7bcd39f5-53c9-40d2-93fe-33765933dd1d,dolphin,O3,Dolphin Limited Offer,5,41.74,1285,194
+b4ede4a8-eea4-4416-a89a-5a92a700a1f2,dolphin,O3,Dolphin Limited Offer,5,41.588499999999996,1290,195
+c391e129-d7b8-40b1-ac77-82cb453c2f8b,dolphin,O3,Dolphin Limited Offer,5,41.579499999999996,1295,196
+7e41470e-9a1c-43a8-b64d-e39a1b3edbab,dolphin,O3,Dolphin Limited Offer,5,41.2675,1300,197
+c4d3524b-e455-4ce6-9610-1d0b0c4c9f0f,dolphin,O3,Dolphin Limited Offer,5,40.9915,1305,198
+e7e2e0c7-ed3a-4330-9123-e25460da1f54,dolphin,O3,Dolphin Limited Offer,5,40.836999999999996,1310,199
+1d56bf14-74b5-4df6-9199-8b5d696d698a,dolphin,O3,Dolphin Limited Offer,5,40.7695,1315,200
+1f66f184-a68e-4b24-a9c7-c027103bbb1b,dolphin,O3,Dolphin Limited Offer,5,40.4965,1320,201
+7a8cb5c4-c6a5-4c04-97df-e58073851a79,dolphin,O3,Dolphin Limited Offer,5,40.4725,1325,202
+8a2c2553-89d0-41ba-895e-385d6de8ae48,dolphin,O3,Dolphin Limited Offer,5,40.135,1330,203
+d32d8b58-8a37-4638-aad3-d990a4fcdebe,dolphin,O3,Dolphin Limited Offer,5,40.0285,1335,204
+538c901a-e83b-4618-b590-7057ada64de2,dolphin,O3,Dolphin Limited Offer,5,40.027,1340,205
+e3629bd3-570e-4bb1-8ec7-05405d159c21,dolphin,O3,Dolphin Limited Offer,5,39.7075,1345,206
+d39a96e7-f66c-4a1d-9073-c8f05dd315c5,dolphin,O3,Dolphin Limited Offer,5,39.647499999999994,1350,207
+35280c19-e98b-4d8b-ab78-e960a7b045cc,dolphin,O3,Dolphin Limited Offer,5,39.499,1355,208
+2d8c43e0-0531-45fe-b013-895d0a573ed4,dolphin,O3,Dolphin Limited Offer,5,39.346,1360,209
+4f6a1051-5f02-4d8b-a68f-f5f8bff644bc,dolphin,O3,Dolphin Limited Offer,5,39.333999999999996,1365,210
+a74e0ff6-7b35-4d0d-9e31-688e02d4894c,dolphin,O3,Dolphin Limited Offer,5,39.3025,1370,211
+d69a0897-2933-41be-8441-03a783bcc0fc,dolphin,O3,Dolphin Limited Offer,5,39.211,1375,212
+fbdb2f58-700f-4fec-be1f-c16807ff79f1,dolphin,O3,Dolphin Limited Offer,5,38.960499999999996,1380,213
+5c320428-0479-4625-b61d-8c99c2dc936b,dolphin,O3,Dolphin Limited Offer,5,38.602,1385,214
+2f77fe71-0e48-4f86-b6d2-cc5d423d8801,dolphin,O3,Dolphin Limited Offer,5,38.565999999999995,1390,215
+c6fddcb4-72a8-4a91-9cfa-825dabcf2549,dolphin,O3,Dolphin Limited Offer,5,38.538999999999994,1395,216
+77dd65d4-ec31-44ff-b1eb-21e72dfcbf98,dolphin,O3,Dolphin Limited Offer,5,38.416,1400,217
+96fadf9f-d863-4c9b-916b-12f9257d47b8,dolphin,O3,Dolphin Limited Offer,5,38.405499999999996,1405,218
+f372d501-cfb5-42dc-b697-934e9bbdbec2,dolphin,O3,Dolphin Limited Offer,5,38.204499999999996,1410,219
+fcbbf400-d0ed-424f-8504-fe8c950a5c8f,dolphin,O3,Dolphin Limited Offer,5,38.1115,1415,220
+8cf54fff-3722-4e1f-b3db-3ed54be3a3e9,dolphin,O3,Dolphin Limited Offer,5,38.025999999999996,1420,221
+ec68c90d-9407-4e57-be8a-5c58423205a8,dolphin,O3,Dolphin Limited Offer,5,38.011,1425,222
+83ee43e9-a833-491d-bd64-69edb252d19b,dolphin,O3,Dolphin Limited Offer,5,37.765,1430,223
+af4e21fb-37de-45f2-ae30-19f382ab0406,dolphin,O3,Dolphin Limited Offer,5,37.522,1435,224
+9ccb7396-a2d5-4acd-a9b2-c8ff405ceb81,dolphin,O3,Dolphin Limited Offer,5,37.4875,1440,225
+878d6aa5-9a5e-4430-86c2-60fe2d1b7005,dolphin,O3,Dolphin Limited Offer,5,37.0915,1445,226
+7ec1f4ad-450a-4366-a88a-26ec29988432,dolphin,O3,Dolphin Limited Offer,5,37.0345,1450,227
+a027d59d-1528-43a0-aa73-f759bde3c6f3,dolphin,O3,Dolphin Limited Offer,5,36.973,1455,228
+5d2f3011-cf83-4135-a9b6-ccbaaee94351,dolphin,O3,Dolphin Limited Offer,5,36.9535,1460,229
+609ec77e-7c64-4486-a77d-da39f5e21576,dolphin,O3,Dolphin Limited Offer,5,36.481,1465,230
+2a783ac4-7027-4262-b320-c9149cffc55e,dolphin,O3,Dolphin Limited Offer,5,36.21699999999999,1470,231
+ffafeb45-9288-4e5e-954a-968f980476ee,dolphin,O3,Dolphin Limited Offer,5,35.9275,1475,232
+a62775ca-4a0c-41e2-80f6-396cd8edf148,dolphin,O3,Dolphin Limited Offer,5,35.7595,1480,233
+cd8b3fc1-a647-4a89-a6b2-d793875e3f45,dolphin,O3,Dolphin Limited Offer,5,35.753499999999995,1485,234
+6b8dffae-f1b7-47c7-a645-e37f5b3eb688,dolphin,O3,Dolphin Limited Offer,5,35.413000000000004,1490,235
+0ff1964a-bdef-4211-b887-186fc5da56c5,dolphin,O3,Dolphin Limited Offer,5,35.372499999999995,1495,236
+4c8e3f7d-0c80-4850-ba93-93f56ccbc2d7,dolphin,O3,Dolphin Limited Offer,5,35.35,1500,237
+1b8e312d-a914-4007-8f8a-6fc4d1754e85,dolphin,O3,Dolphin Limited Offer,5,35.26,1505,238
+7dc3d885-47b6-4ff1-bf91-610920fefb62,dolphin,O3,Dolphin Limited Offer,5,35.11899999999999,1510,239
+be1231a2-039d-487a-855b-408be8e70756,dolphin,O3,Dolphin Limited Offer,5,34.9735,1515,240
+770b0737-59df-44e1-b1c0-ddaa78b3135e,dolphin,O3,Dolphin Limited Offer,5,34.895500000000006,1520,241
+5cce57b9-0033-4a18-8a87-d63c935079f7,dolphin,O3,Dolphin Limited Offer,5,34.561,1525,242
+11f4c965-f96d-4f5a-8f7c-210e80b75c3f,dolphin,O3,Dolphin Limited Offer,5,34.449999999999996,1530,243
+0d15b643-977d-4ec4-9599-7c59b5ee3e73,dolphin,O3,Dolphin Limited Offer,5,34.3165,1535,244
+4fb3e0e4-3b7b-4f98-87d3-f92b9608d782,dolphin,O3,Dolphin Limited Offer,5,34.19199999999999,1540,245
+3c584c16-b9a5-4d55-9671-32a5286ea50d,dolphin,O3,Dolphin Limited Offer,5,34.086999999999996,1545,246
+65256da9-f093-4ed4-92a7-4751808fabe8,dolphin,O3,Dolphin Limited Offer,5,34.041999999999994,1550,247
+82edc8a5-83c2-4894-807d-234c912e5477,dolphin,O3,Dolphin Limited Offer,5,33.934,1555,248
+ba9e20db-a8b9-4ea5-b04a-a2a7bcd2613c,dolphin,O3,Dolphin Limited Offer,5,33.499,1560,249
+7244fd0a-c793-4c7d-88cd-14a8ef5a7548,dolphin,O3,Dolphin Limited Offer,5,33.388,1565,250
+631fd346-0be3-4a77-8987-adcfdc4377c5,dolphin,O3,Dolphin Limited Offer,5,33.0985,1570,251
+d554e85e-7e54-4560-91f0-881fdd2ccf38,dolphin,O3,Dolphin Limited Offer,5,33.0475,1575,252
+917e0b95-6587-43d4-bb0e-85de34268929,dolphin,O3,Dolphin Limited Offer,5,32.744499999999995,1580,253
+fb4da965-1438-474e-8107-24f14bf61e52,dolphin,O3,Dolphin Limited Offer,5,32.674,1585,254
+91504afe-1032-4403-b9ba-ab607b912c2b,dolphin,O3,Dolphin Limited Offer,5,32.3395,1590,255
+5ed2980a-a989-4b56-817e-7f42de1a6f0d,dolphin,O3,Dolphin Limited Offer,5,32.269,1595,256
+878455fd-f807-4639-8f3b-b71a36f1049c,dolphin,O3,Dolphin Limited Offer,5,31.903,1600,257
+ced66811-d066-4035-8ae4-8770ac67ab2d,dolphin,O3,Dolphin Limited Offer,5,31.848999999999997,1605,258
+958d0b47-d373-4bfe-b880-aa1b32c750f1,dolphin,O3,Dolphin Limited Offer,5,31.7305,1610,259
+5eb2ffbb-34b7-48e9-88dd-8608dc5adfad,dolphin,O3,Dolphin Limited Offer,5,31.646499999999996,1615,260
+8e6f43fd-9654-4c42-bfdb-be63e7c3271a,dolphin,O3,Dolphin Limited Offer,5,31.632999999999996,1620,261
+13949cbb-9252-4a5d-a534-166ceffd3129,dolphin,O3,Dolphin Limited Offer,5,31.5475,1625,262
+8248f9eb-4477-4b5f-819e-14e56f76557e,dolphin,O3,Dolphin Limited Offer,5,31.3435,1630,263
+9f0cd6be-1e94-4285-afd9-e28b4a4feb76,dolphin,O3,Dolphin Limited Offer,5,30.8365,1635,264
+a93b3eae-07a7-4e97-81d2-6fb22e24d1bc,dolphin,O3,Dolphin Limited Offer,5,30.631,1640,265
+40462d77-d324-497b-80f8-f94c9bcfb5ef,dolphin,O3,Dolphin Limited Offer,5,30.6025,1645,266
+e035314c-dd1a-43f5-92c7-27fc090e7562,dolphin,O3,Dolphin Limited Offer,5,30.564999999999998,1650,267
+e22b7c73-7813-4c7f-973c-1f3d48010fdc,dolphin,O3,Dolphin Limited Offer,5,30.295,1655,268
+cf1c6238-9536-4c29-b009-917ecba03a77,dolphin,O3,Dolphin Limited Offer,5,30.274,1660,269
+0c9deeaa-5806-4a0e-941b-b0df5eeb2682,dolphin,O3,Dolphin Limited Offer,5,29.931999999999995,1665,270
+7e205e99-4b42-442e-b948-dfb708937a2a,dolphin,O3,Dolphin Limited Offer,5,29.7145,1670,271
+3f5f0eff-dc54-4fd5-b73a-a4c2627b4e63,dolphin,O3,Dolphin Limited Offer,5,29.668,1675,272
+3b1831d9-5d5d-4f0c-a090-3341e577fbcc,dolphin,O3,Dolphin Limited Offer,5,29.247999999999998,1680,273
+91ca138c-73b5-493a-9e9c-c962c90539cd,dolphin,O3,Dolphin Limited Offer,5,29.196999999999996,1685,274
+860fc18a-68da-4eee-b788-bc7a21e3ecf6,dolphin,O3,Dolphin Limited Offer,5,29.0845,1690,275
+58f5514a-601f-44b6-abd1-2e2052d096f7,dolphin,O3,Dolphin Limited Offer,5,28.887999999999998,1695,276
+bf8728ef-6e8e-4453-abf9-df8e9fe71b00,dolphin,O3,Dolphin Limited Offer,5,28.5565,1700,277
+557d7519-8fbd-416d-bca2-5357709f176a,dolphin,O3,Dolphin Limited Offer,5,28.5505,1705,278
+3248ce3e-ce21-42f6-a46d-64cd6f1fcbaa,dolphin,O3,Dolphin Limited Offer,5,28.491999999999997,1710,279
+eac0883f-1da6-444f-bb67-4ed877c211d0,dolphin,O3,Dolphin Limited Offer,5,28.451499999999996,1715,280
+30999d7f-907b-4927-ae18-a5ef79ba6154,dolphin,O3,Dolphin Limited Offer,5,28.435000000000002,1720,281
+30919f5a-ad1b-44a9-b947-550eadade5cb,dolphin,O3,Dolphin Limited Offer,5,28.1755,1725,282
+8054e026-9606-4c9f-b28f-518df94ba7fc,dolphin,O3,Dolphin Limited Offer,5,28.0165,1730,283
+d1e75106-c45a-45ee-baf8-f0a111011be6,dolphin,O3,Dolphin Limited Offer,5,27.926499999999997,1735,284
+a105090b-825d-4b02-9705-12adc7121975,dolphin,O3,Dolphin Limited Offer,5,27.893499999999996,1740,285
+bbfba231-e426-4f45-bb68-b5f312ccf148,dolphin,O3,Dolphin Limited Offer,5,27.738999999999997,1745,286
+245aaf02-5a62-455e-a388-c9cd198efed2,dolphin,O3,Dolphin Limited Offer,5,27.551499999999997,1750,287
+323d16c9-3285-4255-8602-f9ff6df1a780,dolphin,O3,Dolphin Limited Offer,5,27.2725,1755,288
+2f61baa1-fcd4-4029-bf68-545196d0fb7d,dolphin,O3,Dolphin Limited Offer,5,27.198999999999998,1760,289
+01bd645e-bff5-4906-8deb-153d988c6cd3,dolphin,O3,Dolphin Limited Offer,5,27.180999999999997,1765,290
+d1ff9108-e92c-44de-b5ea-c529d1783957,dolphin,O3,Dolphin Limited Offer,5,27.176499999999997,1770,291
+18847b25-d323-4d6c-a001-2291e45faad6,dolphin,O3,Dolphin Limited Offer,5,27.162999999999997,1775,292
+b24d9feb-ba9d-43e7-ba75-f23bdfc550b3,dolphin,O3,Dolphin Limited Offer,5,26.6245,1780,293
+345be258-12ee-4224-ab53-5c05b44f29f8,dolphin,O3,Dolphin Limited Offer,5,26.603499999999997,1785,294
+c100e121-55d4-4af9-ba17-d5558c4527c9,dolphin,O3,Dolphin Limited Offer,5,26.174500000000002,1790,295
+3f00f910-5053-4e78-ba9e-7e87177bc480,dolphin,O3,Dolphin Limited Offer,5,26.072499999999998,1795,296
+42fbd904-9f23-447e-8119-b16eb6783cc8,dolphin,O3,Dolphin Limited Offer,5,25.627,1800,297
+a11566b8-5db5-4277-913f-ad53066622bc,dolphin,O3,Dolphin Limited Offer,5,25.272999999999996,1805,298
+9a2df3b8-3d1b-400e-ae90-b47e9ffc71cb,dolphin,O3,Dolphin Limited Offer,5,25.1965,1810,299
+ce2b7dfc-a920-46cb-817d-c5dc93d8711b,dolphin,O3,Dolphin Limited Offer,5,24.9235,1815,300
+f13f089a-7b5e-4056-90fd-2d8ab30c0090,dolphin,O3,Dolphin Limited Offer,5,24.694,1820,301
+84806fd8-97ae-4c80-9579-79f774a3bc63,dolphin,O3,Dolphin Limited Offer,5,24.662499999999998,1825,302
+43154dfe-245e-4f69-9ac3-021f293378f7,dolphin,O3,Dolphin Limited Offer,5,24.616,1830,303
+d7042a0f-7113-41f4-8e40-82330beff38c,dolphin,O3,Dolphin Limited Offer,5,24.4,1835,304
+907ee403-5d72-4a83-85bb-4b1e7c78d6b1,dolphin,O3,Dolphin Limited Offer,5,24.233499999999996,1840,305
+5f4cde25-ccf9-4f0f-a497-73310e990be2,dolphin,O3,Dolphin Limited Offer,5,23.997999999999998,1845,306
+6f9f650f-edc0-4dc7-8483-0a6038383ab2,dolphin,O3,Dolphin Limited Offer,5,23.8315,1850,307
+1bb267ef-23e4-44d0-91a3-f23285046ae6,dolphin,O3,Dolphin Limited Offer,5,23.761,1855,308
+4dd97104-d36a-486b-872b-a0250e8e4f93,dolphin,O3,Dolphin Limited Offer,5,23.611,1860,309
+cc13bf84-0591-48ef-8122-434f0128b973,dolphin,O3,Dolphin Limited Offer,5,23.5405,1865,310
+d7e6bbbc-bfb0-4368-bb75-fdf86213be7a,dolphin,O3,Dolphin Limited Offer,5,23.514999999999997,1870,311
+4ab748cd-78ae-415b-9a4d-10f1ec20a349,dolphin,O3,Dolphin Limited Offer,5,23.282500000000002,1875,312
+5ef79e8b-df45-4ece-b81c-07a11583b341,dolphin,O3,Dolphin Limited Offer,5,23.1415,1880,313
+e637d3d6-d0dc-4141-b0e8-f5b7b9d4f4f9,dolphin,O3,Dolphin Limited Offer,5,23.075499999999998,1885,314
+57085b9d-a457-4af8-9872-0807e9df3b2f,dolphin,O3,Dolphin Limited Offer,5,22.956999999999997,1890,315
+ed3975d1-ccfe-45ee-9e6b-ea5e77038ec1,dolphin,O3,Dolphin Limited Offer,5,22.5895,1895,316
+031e53ad-9b07-48c5-9784-d6985d4f3160,dolphin,O3,Dolphin Limited Offer,5,22.541500000000003,1900,317
+4328e174-2eec-44d9-a4eb-216bb549486a,dolphin,O3,Dolphin Limited Offer,5,22.4545,1905,318
+bf421c5b-7241-4938-a23a-a0e7bf90de81,dolphin,O3,Dolphin Limited Offer,5,22.197999999999997,1910,319
+bbe10e54-9d0f-4ded-b144-9540adaa29ae,dolphin,O3,Dolphin Limited Offer,5,22.100499999999997,1915,320
+c886048f-9911-40da-9862-b70b851b881f,dolphin,O3,Dolphin Limited Offer,5,21.7945,1920,321
+7fa66999-668f-42ce-b8ce-f9f9923d5dc9,dolphin,O3,Dolphin Limited Offer,5,21.517,1925,322
+3ac768bd-43bd-4f43-89fc-e2435b256f93,dolphin,O3,Dolphin Limited Offer,5,21.2575,1930,323
+4cefba26-51f5-4836-80ce-47910f9b28c4,dolphin,O3,Dolphin Limited Offer,5,21.2185,1935,324
+a256ee4f-8a01-4ae8-94d6-f68f04665a61,dolphin,O3,Dolphin Limited Offer,5,20.749,1940,325
+9f195cb8-df75-4009-b4a6-a6a35c1ff8e1,dolphin,O3,Dolphin Limited Offer,5,20.719,1945,326
+7503c064-27f7-4197-857f-edc68462d402,dolphin,O3,Dolphin Limited Offer,5,20.684499999999996,1950,327
+a2cff92e-52de-4e63-8318-4dfb42c4a445,dolphin,O3,Dolphin Limited Offer,5,20.65,1955,328
+5825586f-c70a-4004-87f6-ef63f5a9436d,dolphin,O3,Dolphin Limited Offer,5,20.587,1960,329
+f2807a4b-1904-4da5-91a4-1e4d66513c07,dolphin,O3,Dolphin Limited Offer,5,20.4865,1965,330
+b4b87a70-0599-45c9-9fc9-bf31840a1d70,dolphin,O3,Dolphin Limited Offer,5,20.344,1970,331
+16f1e22c-c5a1-4785-95f0-933166d728a6,dolphin,O3,Dolphin Limited Offer,5,20.225499999999997,1975,332
+92ef0133-13ca-4f43-bedb-bf91815bf36f,dolphin,O3,Dolphin Limited Offer,5,19.837,1980,333
+ab59cc4b-5dbd-44f2-ae12-29f41788ceda,dolphin,O3,Dolphin Limited Offer,5,19.141,1985,334
+e03c1156-e3f5-4ed2-a377-ea5caedbc8b0,dolphin,O3,Dolphin Limited Offer,5,18.773500000000002,1990,335
+4ea5205f-23ca-46b4-b396-ce0cc29d4558,dolphin,O3,Dolphin Limited Offer,5,18.2305,1995,336
+530d7841-da86-4404-980e-4e6d278ff8bb,dolphin,O3,Dolphin Limited Offer,5,17.959,2000,337
+759679ad-b044-4fa5-a3ab-699ac822b2da,dolphin,O3,Dolphin Limited Offer,5,17.7955,2005,338
+60e7f09c-539f-427a-957f-39e654f28c3c,dolphin,O3,Dolphin Limited Offer,5,17.647,2010,339
+992232c1-a563-4986-aa8b-b70d687d374f,dolphin,O3,Dolphin Limited Offer,5,17.5765,2015,340
+b31e04e5-af21-4267-bac2-6e56dc4428d3,dolphin,O3,Dolphin Limited Offer,5,17.252499999999998,2020,341
+cd5a9e40-7add-48fb-8adf-99796d5072fb,dolphin,O3,Dolphin Limited Offer,5,17.092,2025,342
+b64870a7-b26b-42f3-9e08-583d869ec2bc,dolphin,O3,Dolphin Limited Offer,5,17.0005,2030,343
+7de7a9e0-1a99-4ea3-8355-85c6a2bda66c,dolphin,O3,Dolphin Limited Offer,5,16.852,2035,344
+84afa373-38c8-42f8-adf7-ec95aab85cd8,dolphin,O3,Dolphin Limited Offer,5,16.770999999999997,2040,345
+d4192d12-009b-49e2-b0ad-93f90b1e8ff7,dolphin,O3,Dolphin Limited Offer,5,16.577499999999997,2045,346
+684493e5-a74d-4f40-bf93-588903243201,dolphin,O3,Dolphin Limited Offer,5,16.5565,2050,347
+ad566637-6e90-43d2-a180-a7c62c59a3ab,dolphin,O3,Dolphin Limited Offer,5,16.492,2055,348
+e566f713-4ccf-447e-8ef8-703c13f82f6b,dolphin,O3,Dolphin Limited Offer,5,16.211499999999997,2060,349
+04495c16-508e-480f-b6a7-7ffdc2c3cd68,dolphin,O3,Dolphin Limited Offer,5,15.901,2065,350
+be0562fa-d9a8-4bbf-a6fc-7aa368603153,dolphin,O3,Dolphin Limited Offer,5,15.7945,2070,351
+6ec9be3f-31d2-49f8-a479-ce300135907e,dolphin,O3,Dolphin Limited Offer,5,15.500499999999999,2075,352
+ba322048-e510-47ad-b648-a38b82bf1f4c,dolphin,O3,Dolphin Limited Offer,5,15.095499999999998,2080,353
+06ed6a7c-1774-45ca-8a3d-49f4d45356c9,dolphin,O3,Dolphin Limited Offer,5,15.052,2085,354
+dc8284d9-82a4-46b2-b871-50348b048411,dolphin,O3,Dolphin Limited Offer,5,15.008499999999998,2090,355
+245c6521-b744-4fac-a299-c5e56c40ed51,dolphin,O3,Dolphin Limited Offer,5,14.443000000000001,2095,356
+01178b24-c883-4f4c-9d75-64df3917e599,dolphin,O3,Dolphin Limited Offer,5,14.3875,2100,357
+4c8b51d2-5bd1-488f-8b72-271e08cd8759,dolphin,O3,Dolphin Limited Offer,5,14.225499999999997,2105,358
+fe60f634-e41e-4036-84e4-5afbc411babc,dolphin,O3,Dolphin Limited Offer,5,14.088999999999999,2110,359
+084616fb-7419-4526-b8cc-00aef5079630,dolphin,O3,Dolphin Limited Offer,5,14.0365,2115,360
+ca87e628-7b52-4524-a0ef-f1b0afb28e93,dolphin,O3,Dolphin Limited Offer,5,13.956999999999997,2120,361
+208e6e22-b920-4470-847f-557fd318ef54,dolphin,O3,Dolphin Limited Offer,5,13.809999999999999,2125,362
+352cf3d4-4d3e-48fc-b5d8-a130e9f015df,dolphin,O3,Dolphin Limited Offer,5,13.5475,2130,363
+2894441d-7dca-42b0-b788-c44b398af71b,dolphin,O3,Dolphin Limited Offer,5,12.869499999999999,2135,364
+ebc5628c-d04d-4f99-ad4d-a0f8ac008108,dolphin,O3,Dolphin Limited Offer,5,12.659500000000001,2140,365
+cef59463-01b1-4973-a359-19e06124555d,dolphin,O3,Dolphin Limited Offer,5,12.514,2145,366
+12651959-4472-4474-9ac3-19f0be65fc0b,dolphin,O3,Dolphin Limited Offer,5,12.492999999999999,2150,367
+46bcf03c-79d1-4d2a-b997-567048f314d4,dolphin,O3,Dolphin Limited Offer,5,12.436,2155,368
+0f9437a4-2879-423d-8723-bdf7cc50fe53,dolphin,O3,Dolphin Limited Offer,5,12.116499999999998,2160,369
+45aec45a-b3b8-4154-a53b-38cf145fffd5,dolphin,O3,Dolphin Limited Offer,5,11.423499999999997,2165,370
+8925ed35-971f-4e72-a318-c3437e1db1de,dolphin,O3,Dolphin Limited Offer,5,11.240499999999997,2170,371
+5d8ed16d-7a5e-464d-b8a7-c6d4cb6eb119,dolphin,O3,Dolphin Limited Offer,5,11.135499999999997,2175,372
+08502349-4c15-41ce-8cad-10e1e5908a14,dolphin,O3,Dolphin Limited Offer,5,10.3165,2180,373
+b85bd4a8-f77a-44cb-8305-2bac9aefa312,dolphin,O3,Dolphin Limited Offer,5,9.852999999999998,2185,374
+abe82ffc-5bbb-4b73-9931-113671d3a586,dolphin,O3,Dolphin Limited Offer,5,9.737499999999999,2190,375
+5c0020d9-15d3-4742-9d08-ac97cacbaa4a,dolphin,O3,Dolphin Limited Offer,5,9.61,2195,376
+d0c5cf92-a8d1-4b3d-84ad-0afe57ca0b5b,dolphin,O3,Dolphin Limited Offer,5,9.196,2200,377
+01d51bcb-e2fb-46bc-922a-2d3bcf36d4a8,dolphin,O3,Dolphin Limited Offer,5,9.170499999999999,2205,378
+754657c3-92f3-4192-b312-0bb8175a5033,dolphin,O3,Dolphin Limited Offer,5,9.151,2210,379
+d8e0b6d4-31cf-4a2f-a635-c2ca3d3e9b5e,dolphin,O3,Dolphin Limited Offer,5,8.981499999999999,2215,380
+03de28ff-caf8-4566-8951-96a2e542741b,dolphin,O3,Dolphin Limited Offer,5,8.479,2220,381
+03777f00-2f89-488c-b3a2-3decdaf2b423,dolphin,O3,Dolphin Limited Offer,5,8.373999999999999,2225,382
+d5105b20-ce35-4f3a-b97a-259ecd1afe5e,dolphin,O3,Dolphin Limited Offer,5,8.131,2230,383
+0ea3c6e4-ca89-4a14-85d9-f22dd2bee39a,dolphin,O3,Dolphin Limited Offer,5,8.118999999999998,2235,384
+08a3aa8f-88cc-4f3f-a69c-5b002ad7aaad,dolphin,O3,Dolphin Limited Offer,5,7.766499999999999,2240,385
+2737e5c0-8387-478e-bb95-163f89552a63,dolphin,O3,Dolphin Limited Offer,5,7.507,2245,386
+f44b8607-c28b-48cd-93e6-219292fb37a0,dolphin,O3,Dolphin Limited Offer,5,7.484500000000001,2250,387
+32b9a3ed-be6c-4669-be6e-02f9a2554213,dolphin,O3,Dolphin Limited Offer,5,7.443999999999999,2255,388
+712e4796-2484-43ef-9b79-9dbd9f35a439,dolphin,O3,Dolphin Limited Offer,5,7.1274999999999995,2265,389
+3c049f20-cb06-4a94-949b-47f8acaabe9d,dolphin,O3,Dolphin Limited Offer,5,7.1274999999999995,2265,390
+1ab59619-07d5-4d09-97ff-21b8ac18d89e,dolphin,O3,Dolphin Limited Offer,5,6.740499999999999,2270,391
+0e9a735d-b84f-4a68-8513-e642f679c02b,dolphin,O3,Dolphin Limited Offer,5,6.616,2275,392
+0c319773-23c5-4387-be34-9d259973050d,dolphin,O3,Dolphin Limited Offer,5,6.322000000000001,2280,393
+693f0c0a-4425-448a-badb-e097de1aaf58,dolphin,O3,Dolphin Limited Offer,5,6.2935,2285,394
+b7c8092f-47b0-4b3e-8f39-4933edfa74a0,dolphin,O3,Dolphin Limited Offer,5,6.1135,2290,395
+931c7e37-b796-4dd9-90cd-3499ece566c9,dolphin,O3,Dolphin Limited Offer,5,6.087999999999999,2295,396
+8705ff23-fdb9-4222-90aa-ba1307300add,dolphin,O3,Dolphin Limited Offer,5,5.875,2300,397
+095b8060-1499-4682-aae2-3d1f159e0cff,dolphin,O3,Dolphin Limited Offer,5,5.795499999999999,2305,398
+ba088fc0-00c7-4181-9c31-b6751f79d52d,dolphin,O3,Dolphin Limited Offer,5,5.7715,2310,399
+e059d3e0-1df7-4018-9cde-17a13a367803,dolphin,O3,Dolphin Limited Offer,5,5.619999999999999,2315,400
+ff10658c-f38b-461e-8f46-690c828fcaef,dolphin,O3,Dolphin Limited Offer,5,5.4415,2320,401
+a8cbed0d-a2d1-4f04-af57-38d6fd3c53b2,dolphin,O3,Dolphin Limited Offer,5,5.413,2325,402
+c4cdb06d-0b75-4ea6-8ea7-54e80f62a2d1,dolphin,O3,Dolphin Limited Offer,5,5.235999999999999,2330,403
+ef6dfc4d-b4a3-4a4b-8c2a-81b6d3a8e561,dolphin,O3,Dolphin Limited Offer,5,5.177499999999998,2335,404
+557f1c9f-2ecb-4b0e-827d-ebeabca045bb,dolphin,O3,Dolphin Limited Offer,5,5.150499999999999,2340,405
+431202b0-85aa-4c4a-a5ab-2ca019e53e26,dolphin,O3,Dolphin Limited Offer,5,5.097999999999999,2345,406
+4ca876ed-1a18-4037-986b-c5560b58c5c6,dolphin,O3,Dolphin Limited Offer,5,5.0695,2350,407
+0e400c2a-0424-4fc1-82a9-f046cf8637ac,dolphin,O3,Dolphin Limited Offer,5,4.6884999999999994,2355,408
+08ac9f58-221b-4568-9ea6-849c41e6b7f9,dolphin,O3,Dolphin Limited Offer,5,4.632999999999999,2360,409
+00ad7b7e-113c-4978-83e2-574dea9e3fb9,dolphin,O3,Dolphin Limited Offer,5,4.623999999999999,2365,410
+f0606a81-b49e-42ec-8439-5a2c8537ba31,dolphin,O3,Dolphin Limited Offer,5,4.051,2370,411
+1bfc05b0-5c46-4652-a050-3623aa98c63d,dolphin,O3,Dolphin Limited Offer,5,3.9429999999999996,2375,412
+31be697c-f6b6-4dee-9e31-fca6fc2327f2,dolphin,O3,Dolphin Limited Offer,5,3.9190000000000005,2380,413
+fe778c11-c8d8-4be9-8785-095757f1d7a4,dolphin,O3,Dolphin Limited Offer,5,3.834999999999999,2385,414
+d4eea9d7-5e47-40ad-9fa3-eaaed4e19dff,dolphin,O3,Dolphin Limited Offer,5,3.5755,2390,415
+a7a347c1-a502-40db-8c7b-e4f53944051b,dolphin,O3,Dolphin Limited Offer,5,3.0924999999999994,2395,416
+43724483-13e7-4df1-b7e2-2540970b8344,dolphin,O3,Dolphin Limited Offer,5,3.0534999999999997,2400,417
+ecc93dd5-24ab-45a7-b6bc-789f05884e34,early_payer,O2,Early Payer Starter Boost,3,3,2403,418
+7ff2c6d5-e1c5-4b06-8c66-814b1a956e40,early_payer,O2,Early Payer Starter Boost,3,2.9880000000000004,2406,419
+3b092fd4-fb16-4f57-8812-3ade72f9e587,early_payer,O2,Early Payer Starter Boost,3,2.973,2409,420
+86b8a432-7d58-43a9-8aa0-8e9d33031d2c,dolphin,O3,Dolphin Limited Offer,5,2.9619999999999997,2414,421
+fad96347-a974-4bb9-a541-0445964551f2,early_payer,O2,Early Payer Starter Boost,3,2.948999999999999,2417,422
+07ca70ea-adb3-4de5-83e0-723e7749233b,dolphin,O3,Dolphin Limited Offer,5,2.9485,2422,423
+c26d15ac-c6e7-4e39-b7b4-8874cf43c427,dolphin,O3,Dolphin Limited Offer,5,2.946999999999999,2427,424
+578ace4f-084f-44e7-8a51-fc149a859ce4,early_payer,O2,Early Payer Starter Boost,3,2.931,2430,425
+2abddd3c-04b5-4e3c-bf9e-f3f4f62fcbf6,early_payer,O2,Early Payer Starter Boost,3,2.928,2433,426
+0ad98fbe-1050-4eb3-b1ba-82712cbf8191,early_payer,O2,Early Payer Starter Boost,3,2.904,2436,427
+f734d5a6-7dba-4656-b547-2e4cfbe5448d,early_payer,O2,Early Payer Starter Boost,3,2.8949999999999996,2439,428
+c02a2127-5062-4ffe-9fd6-bd72d4986b2f,early_payer,O2,Early Payer Starter Boost,3,2.8889999999999993,2442,429
+d31e61b2-b0d8-47ad-9466-20dd5745cd42,early_payer,O2,Early Payer Starter Boost,3,2.8739999999999997,2445,430
+4755a7db-2131-4d3a-ab8d-c09fa708fcbc,early_payer,O2,Early Payer Starter Boost,3,2.8709999999999996,2448,431
+1dfa36a5-4872-4927-a09d-77610dee95e6,early_payer,O2,Early Payer Starter Boost,3,2.865,2451,432
+0248c4f5-cfd3-4dbd-ada3-93b2d2a83179,early_payer,O2,Early Payer Starter Boost,3,2.859,2454,433
+3d16013e-3568-4d0a-a6d5-f13cb6677acf,early_payer,O2,Early Payer Starter Boost,3,2.8019999999999996,2457,434
+81c0d33b-5916-441f-803c-b11ab9482859,early_payer,O2,Early Payer Starter Boost,3,2.7989999999999995,2460,435
+8b25e8eb-0a20-40e8-b6f0-130f2bb5f7cd,dolphin,O3,Dolphin Limited Offer,5,2.7880000000000003,2465,436
+af77f9f2-ce87-45ac-bc95-79ecbd6e1c2f,early_payer,O2,Early Payer Starter Boost,3,2.787,2468,437
+fdaf478b-284a-4da2-b2e2-214e5df56ed3,early_payer,O2,Early Payer Starter Boost,3,2.765999999999999,2471,438
+44f04607-d70e-43e7-9946-cfccd2c506ff,early_payer,O2,Early Payer Starter Boost,3,2.739,2474,439
+5351cdaa-4c8f-413e-8257-f45ae6190cef,early_payer,O2,Early Payer Starter Boost,3,2.7300000000000004,2477,440
+88f86a8a-ba9f-496f-bc11-3fc241673db9,early_payer,O2,Early Payer Starter Boost,3,2.7269999999999994,2480,441
+7e84dfa9-94b0-49de-88da-5b4758464a69,early_payer,O2,Early Payer Starter Boost,3,2.717999999999999,2486,442
+8bb311d8-4636-4e56-9ca1-91c7a26b4479,early_payer,O2,Early Payer Starter Boost,3,2.717999999999999,2486,443
+99c1fe1d-de0e-4f2a-9b33-a462e96f4020,early_payer,O2,Early Payer Starter Boost,3,2.7090000000000005,2489,444
+8aa175d8-e1a4-4a2c-bf16-f1fc295f224f,early_payer,O2,Early Payer Starter Boost,3,2.7030000000000003,2492,445
+ec12be21-e520-49ec-aaa4-9944fae1b0ee,early_payer,O2,Early Payer Starter Boost,3,2.7,2495,446
+dc52887e-ddff-4edc-ae4a-66a1af0ca453,early_payer,O2,Early Payer Starter Boost,3,2.696999999999999,2498,447
+63ed67f2-c585-458a-ba05-8e91ba227696,early_payer,O2,Early Payer Starter Boost,3,2.694,2501,448
+4350bfb6-d42d-450e-b5e0-d08c1a1faeb8,early_payer,O2,Early Payer Starter Boost,3,2.691,2507,449
+26528266-a121-4988-b35d-e64fca78106b,early_payer,O2,Early Payer Starter Boost,3,2.691,2507,450
+6fc26865-7182-4893-8e82-d651aacf5ab6,dolphin,O3,Dolphin Limited Offer,5,2.6799999999999997,2512,451
+7153e457-385c-4705-bf52-658354dfd05f,early_payer,O2,Early Payer Starter Boost,3,2.676,2518,452
+c86b9dfd-d09c-464f-b771-716d8b0f4642,early_payer,O2,Early Payer Starter Boost,3,2.676,2518,453
+270be130-03e1-4e09-9d7a-930309030265,early_payer,O2,Early Payer Starter Boost,3,2.669999999999999,2521,454
+2ceef70a-e740-419a-9420-0324831c8346,early_payer,O2,Early Payer Starter Boost,3,2.6639999999999997,2524,455
+2c088b34-1e9b-482b-a9e0-f7a7095ac4b8,early_payer,O2,Early Payer Starter Boost,3,2.6610000000000005,2527,456
+cec63c74-72fb-4684-953c-d331bb52ccfe,early_payer,O2,Early Payer Starter Boost,3,2.6550000000000002,2533,457
+bcea9e79-d7cf-4a9c-9115-40770ba0ab08,early_payer,O2,Early Payer Starter Boost,3,2.6550000000000002,2533,458
+a4869b84-a3d8-490e-afd8-ddf80ee5a775,dolphin,O3,Dolphin Limited Offer,5,2.638,2538,459
+0fb249a9-463d-482c-aa07-17b27a58450b,early_payer,O2,Early Payer Starter Boost,3,2.6309999999999993,2541,460
+35dfa72c-ec1f-40b1-8942-27eea47f70df,early_payer,O2,Early Payer Starter Boost,3,2.6130000000000004,2547,461
+a918136b-fff0-490b-a433-caeb66bb5dda,early_payer,O2,Early Payer Starter Boost,3,2.6130000000000004,2547,462
+ff488fa3-6c7e-4fe5-b875-a4419adafc93,early_payer,O2,Early Payer Starter Boost,3,2.6099999999999994,2550,463
+f51eac21-0215-4ea8-a6ed-1b07453e5621,early_payer,O2,Early Payer Starter Boost,3,2.604,2553,464
+935aee6b-0107-4850-aa2b-7e9e404eb0fc,early_payer,O2,Early Payer Starter Boost,3,2.5829999999999993,2556,465
+0a27824c-f44c-41d2-bbdb-a72f7e05976d,early_payer,O2,Early Payer Starter Boost,3,2.573999999999999,2559,466
+2552df9b-f663-406d-88dd-42a8b865fef9,early_payer,O2,Early Payer Starter Boost,3,2.556,2562,467
+c5e10c4c-16ff-4b8a-8014-3d74076546b1,early_payer,O2,Early Payer Starter Boost,3,2.553,2565,468
+765bf52b-7f62-4512-befb-e131baaaf151,early_payer,O2,Early Payer Starter Boost,3,2.5349999999999993,2568,469
+97648426-201c-4dae-84ab-7f530bd565a1,early_payer,O2,Early Payer Starter Boost,3,2.5199999999999996,2571,470
+081bd4ac-de80-43b0-9446-4fb9f2f52a4f,early_payer,O2,Early Payer Starter Boost,3,2.508,2574,471
+ce2e54a6-c5a1-49f0-8be3-e05c1200ed79,early_payer,O2,Early Payer Starter Boost,3,2.49,2577,472
+3941a6e4-c925-4016-9701-99dacd2b8c81,early_payer,O2,Early Payer Starter Boost,3,2.463,2580,473
+59e43fc6-443e-4ee6-9397-62deeeb5f146,early_payer,O2,Early Payer Starter Boost,3,2.4539999999999997,2583,474
+fccd7b58-4931-4e7b-88d8-a709608dfbef,early_payer,O2,Early Payer Starter Boost,3,2.4239999999999995,2586,475
+31c31d16-cb10-49e6-b05a-1b575ed2a9b3,early_payer,O2,Early Payer Starter Boost,3,2.4179999999999993,2589,476
+8dc1d9b8-e3cd-49e4-a850-c54b2c8547dd,early_payer,O2,Early Payer Starter Boost,3,2.385,2592,477
+6773053b-71b7-415e-89f1-003b939c7d21,early_payer,O2,Early Payer Starter Boost,3,2.3820000000000006,2595,478
+b613031b-dd0f-42e2-9968-78f63922b209,early_payer,O2,Early Payer Starter Boost,3,2.3519999999999994,2598,479
+353de7be-6788-4178-829b-5b7231ef4033,early_payer,O2,Early Payer Starter Boost,3,2.34,2601,480
+27e3b622-f416-4f9f-ade6-b25649d99886,early_payer,O2,Early Payer Starter Boost,3,2.3369999999999997,2604,481
+db58ea32-9712-4bdd-97bc-b6c1b8489fdf,early_payer,O2,Early Payer Starter Boost,3,2.3280000000000003,2607,482
+8f5c0557-07f5-40f1-bf6a-cbfaf8ab630c,early_payer,O2,Early Payer Starter Boost,3,2.321999999999999,2610,483
+92a5a986-4376-461b-8939-3e680719ee66,early_payer,O2,Early Payer Starter Boost,3,2.3129999999999997,2613,484
+77a77cd7-b4ec-48c9-812e-4f8708fadaaf,early_payer,O2,Early Payer Starter Boost,3,2.2860000000000005,2622,485
+f5b5883f-2f61-44b7-a1d7-37abcc8faeb0,early_payer,O2,Early Payer Starter Boost,3,2.2860000000000005,2622,486
+46c13cf7-2296-4773-bfad-dadebcc53a8e,early_payer,O2,Early Payer Starter Boost,3,2.2860000000000005,2622,487
+dde2d0ab-803e-40b9-aaeb-bcacdaf70423,early_payer,O2,Early Payer Starter Boost,3,2.273999999999999,2625,488
+a21376b2-6e4f-4931-bb56-2671b77c408e,early_payer,O2,Early Payer Starter Boost,3,2.271,2628,489
+5896906b-f0d2-4c65-a1ac-eebf6a1ce04e,early_payer,O2,Early Payer Starter Boost,3,2.268,2634,490
+2b948fe4-c191-4142-b86d-1a3f99c46195,early_payer,O2,Early Payer Starter Boost,3,2.268,2634,491
+1d2cd7dc-e92c-42a1-a0f7-ea20b91ed9b3,early_payer,O2,Early Payer Starter Boost,3,2.2380000000000004,2637,492
+79d54b6a-e3c1-4620-8ce0-cd81a2e0cf6e,early_payer,O2,Early Payer Starter Boost,3,2.223,2640,493
+f60f1c9a-d523-4648-a09c-7928e79fb2be,early_payer,O2,Early Payer Starter Boost,3,2.2110000000000003,2643,494
+df9d9d3b-80e0-4fd9-bead-023ad90a4244,early_payer,O2,Early Payer Starter Boost,3,2.205,2649,495
+69e8e94a-cb61-4a55-be9f-30a626281f75,early_payer,O2,Early Payer Starter Boost,3,2.205,2649,496
+43fa32b5-fc02-40bc-acb8-8e0a550a6c16,early_payer,O2,Early Payer Starter Boost,3,2.1959999999999997,2652,497
+145b4d71-8917-4e13-ad29-ebf3598a204d,early_payer,O2,Early Payer Starter Boost,3,2.1929999999999996,2655,498
+7cd460ca-3aa0-437a-a6ee-2426dbdef692,early_payer,O2,Early Payer Starter Boost,3,2.1900000000000004,2658,499
+e00b126a-e551-403f-812a-4279061ba231,early_payer,O2,Early Payer Starter Boost,3,2.178,2661,500
+5dd4f353-5c64-47e6-8acc-b2edfbc416ac,early_payer,O2,Early Payer Starter Boost,3,2.175,2664,501
+1a28e0f5-b63f-4c11-b4ee-107b49da2f62,early_payer,O2,Early Payer Starter Boost,3,2.1719999999999997,2667,502
+eda0e821-e296-42b9-b874-a4a81a296ab1,early_payer,O2,Early Payer Starter Boost,3,2.1630000000000003,2673,503
+ed5762ce-1442-47c1-b68d-c48ca2d49e10,early_payer,O2,Early Payer Starter Boost,3,2.1630000000000003,2673,504
+920d5029-97d7-4b77-90c0-494dec7f4040,early_payer,O2,Early Payer Starter Boost,3,2.1599999999999993,2679,505
+52463f64-7562-480b-a045-cb5a70ddafcb,early_payer,O2,Early Payer Starter Boost,3,2.1599999999999993,2679,506
+9b85bca7-9f55-43af-a1f4-523c00105ed9,early_payer,O2,Early Payer Starter Boost,3,2.157,2682,507
+9bd3ede7-fc13-4529-a2d5-2e6f70c83b2f,early_payer,O2,Early Payer Starter Boost,3,2.1510000000000007,2685,508
+e88ee343-1fd3-4c72-8eb7-0e66ddeb27a3,early_payer,O2,Early Payer Starter Boost,3,2.1479999999999997,2688,509
+47ed0fb9-2d57-45dc-a03c-a05616be7a9c,dolphin,O3,Dolphin Limited Offer,5,2.1414999999999997,2693,510
+fe5e6540-a6d4-4f52-8f6c-49f39a798753,early_payer,O2,Early Payer Starter Boost,3,2.136,2696,511
+48a2881e-2628-4157-9071-62dbaf82f63f,early_payer,O2,Early Payer Starter Boost,3,2.1239999999999997,2699,512
+e8f3df38-42d5-4329-bf5f-425a32837b79,early_payer,O2,Early Payer Starter Boost,3,2.1179999999999994,2702,513
+611dfe01-f055-4d72-9ed7-ef4c6fab2c22,early_payer,O2,Early Payer Starter Boost,3,2.088,2705,514
+2f9b59a8-8fa4-48cf-abec-3f3dd76aaf86,early_payer,O2,Early Payer Starter Boost,3,2.0699999999999994,2708,515
+f50a57fe-3aab-46e3-985e-51196af5f4b5,dolphin,O3,Dolphin Limited Offer,5,2.0679999999999996,2713,516
+f07547e7-563a-4093-ac29-91b2cf11a3dc,early_payer,O2,Early Payer Starter Boost,3,2.061,2716,517
+07ca4280-27dc-459d-9e0f-ba36e7de7e59,early_payer,O2,Early Payer Starter Boost,3,2.0519999999999996,2719,518
+184ecbe4-11c5-43cb-a458-9ffbacbe2fc3,early_payer,O2,Early Payer Starter Boost,3,2.04,2722,519
+2759be2e-75ba-41d4-8cfd-c1ed78a26b28,early_payer,O2,Early Payer Starter Boost,3,1.9949999999999992,2725,520
+80088d38-66a1-43e2-a98d-ec90870928a6,early_payer,O2,Early Payer Starter Boost,3,1.9829999999999997,2728,521
+b2411749-b6f3-4079-be02-ed17cc1e1f27,early_payer,O2,Early Payer Starter Boost,3,1.9739999999999993,2734,522
+47e52016-1636-49b9-888c-b0987a931066,early_payer,O2,Early Payer Starter Boost,3,1.9739999999999993,2734,523
+b410abf8-33ad-4335-8edb-5c1a30a2133d,early_payer,O2,Early Payer Starter Boost,3,1.9409999999999998,2737,524
+1b2caa0b-9e6d-4ad3-bf01-1fee8d71c9fb,early_payer,O2,Early Payer Starter Boost,3,1.9379999999999997,2740,525
+e95e8668-ddf9-48fa-80be-d20c17355c7f,early_payer,O2,Early Payer Starter Boost,3,1.9289999999999994,2743,526
+2f30d6ae-69d8-4b27-bfbe-0e53c7db97b6,early_payer,O2,Early Payer Starter Boost,3,1.9260000000000002,2746,527
+328ce398-d067-47e6-9335-995320140300,early_payer,O2,Early Payer Starter Boost,3,1.919999999999999,2749,528
+6fd7f8de-be00-4883-af20-24b52ad5943c,early_payer,O2,Early Payer Starter Boost,3,1.9050000000000002,2752,529
+9b5cc733-83ec-4476-8da8-cf79138954d9,early_payer,O2,Early Payer Starter Boost,3,1.9020000000000001,2755,530
+fa0abbce-86cf-4a3d-a06b-579c3d3f16f8,early_payer,O2,Early Payer Starter Boost,3,1.896,2761,531
+a6616afb-71ed-423c-b01a-3798813cf0e6,early_payer,O2,Early Payer Starter Boost,3,1.896,2761,532
+82997e56-1a76-461d-8722-f4f9d72d7781,early_payer,O2,Early Payer Starter Boost,3,1.8899999999999997,2764,533
+6b4481a3-66d2-4e06-bc18-c69489da7936,early_payer,O2,Early Payer Starter Boost,3,1.8780000000000001,2767,534
+58842404-d977-4034-97a4-817b5c117f5c,early_payer,O2,Early Payer Starter Boost,3,1.871999999999999,2770,535
+ba8e2c67-c8d7-4eea-9140-de8b5a8c7408,early_payer,O2,Early Payer Starter Boost,3,1.8659999999999997,2773,536
+58646814-a382-42e6-8115-633ab5812e9c,early_payer,O2,Early Payer Starter Boost,3,1.8630000000000004,2776,537
+2db0dcae-bcfd-4a90-aac3-3c9d6960fede,early_payer,O2,Early Payer Starter Boost,3,1.8599999999999994,2779,538
+81c84d76-9a42-46a9-8a24-9612f2bcd8c5,early_payer,O2,Early Payer Starter Boost,3,1.8570000000000002,2782,539
+adf3f2d8-4637-407a-831b-10034fdeff32,early_payer,O2,Early Payer Starter Boost,3,1.854,2785,540
+980bf5de-a10d-47f8-8e46-a784c334a58f,early_payer,O2,Early Payer Starter Boost,3,1.8449999999999998,2788,541
+a9d5f0c1-555d-4547-ba2a-78d83b8cb36e,early_payer,O2,Early Payer Starter Boost,3,1.8389999999999995,2791,542
+7b377857-7dfd-49db-bc9f-4aefb8db77d0,early_payer,O2,Early Payer Starter Boost,3,1.823999999999999,2794,543
+c052fd92-8625-47dc-92a1-96fa06e3bc4c,early_payer,O2,Early Payer Starter Boost,3,1.8119999999999994,2797,544
+68b2fc66-e3f1-4738-b890-ec14bbe62f65,early_payer,O2,Early Payer Starter Boost,3,1.7969999999999997,2800,545
+be374795-bbd3-4ec1-a1c0-2c8432b9ceb3,early_payer,O2,Early Payer Starter Boost,3,1.779,2806,546
+d28e8fd9-7dc7-4c03-bde0-045f0ce3ba68,early_payer,O2,Early Payer Starter Boost,3,1.779,2806,547
+bb28823d-ad6b-44dc-960a-eb703a707d73,dolphin,O3,Dolphin Limited Offer,5,1.7649999999999997,2811,548
+ff034562-145e-44e9-b0d4-229a1bd07c26,early_payer,O2,Early Payer Starter Boost,3,1.7640000000000002,2814,549
+fde94839-276f-41d0-8fe5-1ddaf295756b,early_payer,O2,Early Payer Starter Boost,3,1.7519999999999998,2817,550
+c75cac87-4ea5-4166-b616-51da59d6898d,early_payer,O2,Early Payer Starter Boost,3,1.734,2823,551
+becec769-b036-41a9-b212-eeb70b2b52b1,early_payer,O2,Early Payer Starter Boost,3,1.734,2823,552
+bf71d855-aed8-4435-8c5d-71bab3728a5b,early_payer,O2,Early Payer Starter Boost,3,1.7249999999999996,2826,553
+2b713852-22c9-41de-a645-9263ddf681a1,early_payer,O2,Early Payer Starter Boost,3,1.7039999999999997,2829,554
+95a7b6aa-5890-47bf-81fe-3d7333d59268,early_payer,O2,Early Payer Starter Boost,3,1.6950000000000003,2832,555
+5146cf82-405a-4a4e-a239-b89953ac1df8,early_payer,O2,Early Payer Starter Boost,3,1.6920000000000002,2835,556
+92755fdf-64af-4299-bfce-8dbdd6de6e6b,early_payer,O2,Early Payer Starter Boost,3,1.6799999999999997,2838,557
+d36f967c-d69d-412b-ac5c-ace5c9c4c756,early_payer,O2,Early Payer Starter Boost,3,1.6739999999999995,2841,558
+69ba9fa2-423f-496c-bf8b-197beb82788b,early_payer,O2,Early Payer Starter Boost,3,1.6710000000000003,2844,559
+8f377c74-665e-440d-952c-1683d0ccc613,early_payer,O2,Early Payer Starter Boost,3,1.6589999999999998,2847,560
+d22a0a47-1cc3-459a-bbd3-6b8d55857d5e,early_payer,O2,Early Payer Starter Boost,3,1.6529999999999996,2850,561
+65c9070d-a1dc-46a1-8041-f1ff52f0b476,early_payer,O2,Early Payer Starter Boost,3,1.6470000000000002,2853,562
+71ab0c97-868b-47f2-9741-8973bea2ee50,early_payer,O2,Early Payer Starter Boost,3,1.638,2856,563
+c0d1872d-5dfe-4e40-8f3b-f496fdb2064c,early_payer,O2,Early Payer Starter Boost,3,1.596,2859,564
+f437837f-3ad7-4e5d-bf5f-8df4bf34b9df,early_payer,O2,Early Payer Starter Boost,3,1.5869999999999997,2862,565
+5cd77ca3-f79b-44cc-bcd0-a7b83f92de0e,early_payer,O2,Early Payer Starter Boost,3,1.5779999999999994,2865,566
+429b3154-425a-485b-9f9e-7dfad1c1c992,early_payer,O2,Early Payer Starter Boost,3,1.5750000000000002,2868,567
+cdc520e0-806e-4e6c-b22e-18689423958a,early_payer,O2,Early Payer Starter Boost,3,1.5659999999999998,2871,568
+b0450e15-b5d1-432c-bdef-041568bb38b1,early_payer,O2,Early Payer Starter Boost,3,1.5569999999999995,2874,569
+b05ce854-bc08-4fe0-a4cd-f9f018d7dd11,early_payer,O2,Early Payer Starter Boost,3,1.5510000000000002,2877,570
+7a25d78d-a460-49f0-9642-1abd9f15fb86,early_payer,O2,Early Payer Starter Boost,3,1.545,2880,571
+d58eb8bb-785c-4799-84e9-14acd9f7203a,early_payer,O2,Early Payer Starter Boost,3,1.5389999999999997,2883,572
+f3645516-479d-4c3d-a12a-c77bc43332d7,early_payer,O2,Early Payer Starter Boost,3,1.5299999999999994,2886,573
+ba46c00e-ff51-4035-9a52-40eafd740c0c,early_payer,O2,Early Payer Starter Boost,3,1.5059999999999993,2889,574
+329a9d9c-2988-4f7f-9859-c1d18098fbc6,early_payer,O2,Early Payer Starter Boost,3,1.5030000000000001,2892,575
+914b6979-102a-402d-b044-7e9a194091e7,dolphin,O3,Dolphin Limited Offer,5,1.4949999999999992,2897,576
+42ecdac9-32c6-4bfc-aec7-b3a9c0d9e91e,early_payer,O2,Early Payer Starter Boost,3,1.4849999999999994,2900,577
+c2a5f183-390b-40f3-b9fd-1a6acd64e968,early_payer,O2,Early Payer Starter Boost,3,1.479,2903,578
+fd0ea442-3442-4c8d-84dd-630d06685b16,dolphin,O3,Dolphin Limited Offer,5,1.4769999999999994,2908,579
+388f1ac8-8e95-4ebd-90f6-88b6c035c9ae,early_payer,O2,Early Payer Starter Boost,3,1.476,2914,580
+f5769562-2a0b-4c10-be7c-0bfc4c84ad43,early_payer,O2,Early Payer Starter Boost,3,1.476,2914,581
+665839dd-a1d1-4e77-a9af-091c25418e32,early_payer,O2,Early Payer Starter Boost,3,1.4609999999999994,2917,582
+56224da4-1906-464e-a1b6-8d914b9aea69,early_payer,O2,Early Payer Starter Boost,3,1.4489999999999998,2923,583
+d2086177-46a3-4b4c-9141-84c4bdb9998c,early_payer,O2,Early Payer Starter Boost,3,1.4489999999999998,2923,584
+63781cf7-f9a7-4727-ac71-5cd91996f972,dolphin,O3,Dolphin Limited Offer,5,1.4425,2928,585
+cf00c830-9118-4655-9c29-5f2bd4dda8d5,early_payer,O2,Early Payer Starter Boost,3,1.428,2931,586
+e3275698-8fe8-470f-a26c-cdddf3a3db57,early_payer,O2,Early Payer Starter Boost,3,1.4099999999999993,2937,587
+50e0c494-8e19-4cb2-92d7-bd0eacd8e339,early_payer,O2,Early Payer Starter Boost,3,1.4099999999999993,2937,588
+f56e16c5-4181-4b75-9904-4d6032f5e5a1,early_payer,O2,Early Payer Starter Boost,3,1.383,2943,589
+a8ae7b9d-af5f-4384-b42c-368dc37e7e5c,early_payer,O2,Early Payer Starter Boost,3,1.383,2943,590
+9a92956a-6729-42dd-859f-10505fd21535,early_payer,O2,Early Payer Starter Boost,3,1.38,2946,591
+3883ee79-2927-45ac-8065-2b23ad45680d,early_payer,O2,Early Payer Starter Boost,3,1.3739999999999997,2949,592
+c732bddc-32ce-4b42-be77-d731275c39ac,early_payer,O2,Early Payer Starter Boost,3,1.3650000000000002,2955,593
+55f3cbc0-d90a-4f93-83e6-2637704423e0,early_payer,O2,Early Payer Starter Boost,3,1.3650000000000002,2955,594
+d9c10fe1-7de5-4703-bd73-a9ca5130a4ae,early_payer,O2,Early Payer Starter Boost,3,1.3559999999999999,2958,595
+8a324a49-8484-48b1-91b2-a97c5371ab03,early_payer,O2,Early Payer Starter Boost,3,1.3259999999999996,2961,596
+1d400a74-33a2-4094-8066-674e04ce1a70,early_payer,O2,Early Payer Starter Boost,3,1.3229999999999995,2964,597
+02afa2a5-35b5-498e-b6c5-96764e947393,early_payer,O2,Early Payer Starter Boost,3,1.3200000000000003,2970,598
+1a617363-2cee-43a1-b148-5b1e5b69250a,early_payer,O2,Early Payer Starter Boost,3,1.3200000000000003,2970,599
+c68a4be7-bf36-4a3a-ad75-05a5a176f906,dolphin,O3,Dolphin Limited Offer,5,1.3179999999999996,2975,600
+064c05ce-cd42-4d00-a86f-fe8ad7685035,early_payer,O2,Early Payer Starter Boost,3,1.311,2978,601
+c4fedcdb-0ed7-47b6-ac7e-5fbcb2421fb4,early_payer,O2,Early Payer Starter Boost,3,1.2930000000000001,2981,602
+c2c3e263-0887-4509-b72c-51a32ce74ac1,early_payer,O2,Early Payer Starter Boost,3,1.2809999999999997,2984,603
+2c5be385-0f9f-47bc-ac90-a0b1e0ead0ef,early_payer,O2,Early Payer Starter Boost,3,1.2720000000000002,2990,604
+3df9189c-06fb-42d3-8422-18f06c5fb72d,early_payer,O2,Early Payer Starter Boost,3,1.2720000000000002,2990,605
+6225ea4b-e767-4b86-98ee-ff16d5cc6553,early_payer,O2,Early Payer Starter Boost,3,1.2539999999999996,2993,606
+a8eb7f0a-2b5b-4e33-b735-bdbcd167e6c9,early_payer,O2,Early Payer Starter Boost,3,1.245,2996,607
+f9c5c150-6ef8-4315-a5a0-e8a5895c5e04,early_payer,O2,Early Payer Starter Boost,3,1.2329999999999997,2999,608
