@@ -1,0 +1,1 @@
+This project builds a monetization allocation system for mobile game users under a fixed promotional budget.
